@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+ 
+ # Extras
+ *.config
+ *-lock.json
+ .vscode/*
+ .vscode
+ .vs/*
+ .vs
+ *.sln
+ *.user
+ *.esproj

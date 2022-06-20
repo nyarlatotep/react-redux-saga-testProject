@@ -1,9 +1,8 @@
-import './assets/App.css';
+import React from 'react';
 import { Remarkable } from 'remarkable';
 import { getUser, addUser, delUser } from './api/api';
 
 import { value } from './redux-saga/reducer'
-const React = require( 'react' );
 
 
 export class UserIndexer extends React.Component {
